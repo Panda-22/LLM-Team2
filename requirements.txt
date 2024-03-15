@@ -1,0 +1,9 @@
+transformers
+huggingface_hub
+gpt-2-simple
+tensorflow>=2.5.1
+regex
+requests
+tqdm
+numpy
+toposort
